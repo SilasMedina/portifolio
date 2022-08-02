@@ -13,7 +13,8 @@ $mail->Host = "smtp.google.com"; // Endereço do servidor SMTP
 //$mail->SMTPAuth = true; // Usa autenticação SMTP? (opcional)
 $mail->Username = 'medina9ba@gmail.com
 '; // Usuário do servidor SMTP
-$mail->Password = 'Algoritimo,1618'; // Senha do servidor SMTP
+
+$mail->Password = '***********'; // Senha do servidor SMTP
 //$mail->SMTPSecure = "tls";
 $mail->Port       = 587;  
 // Define o remetente
